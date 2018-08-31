@@ -1,6 +1,3 @@
-[submodule "refreeze"]
-	path = refreeze
-	url = https://github.com/bast/refreeze.git
 [submodule "refreezex"]
-	path = refreezex
+	path = refreeze
 	url = https://github.com/vahtras/refreeze.git
