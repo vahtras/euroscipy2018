@@ -18,6 +18,8 @@
 
 ### Olav Vahtras 
 
+#### https://vahtras.github.io/euroscipy2018
+
 ---
 
 layout: false
