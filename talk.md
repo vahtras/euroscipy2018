@@ -22,7 +22,7 @@
 
 layout: false
 
-## About me
+## About <a href="https://www.kth.se/profile/vahtras">me</a>
 
 * KTH Royal Institute of Technology
 <img src="https://www.kth.se/img/icon/kth-mobile-icon.png" height="40">
@@ -30,6 +30,7 @@ layout: false
 * Software Carpentry/Data Carpentry
 <img src="https://carpentries.org/assets/img/TheCarpentries.svg" height="40">
 * Co-editor of <a href="http://www.scipy-lectures.org/">SciPy Lecture Notes</a>
+* Teaching Python at master and Ph.D. levels
 
 ---
 
@@ -86,7 +87,6 @@ $$
 
 * Successful Scandinavian collaboration
 * Code has evolved organically over > 30 years
-* A lot of functionality that will never be reimplemented
 
 ---
 
@@ -96,12 +96,27 @@ $$
 * A number of (long) end to end tests
 * Many common blocks
 
+#### However
+
+* A lot of functionality that will never be reimplemented
+* Code will not go away
+* Still ok for teaching
+
 ---
+
 ## Some new
 
 * Under development
 * Modern C++ implementations with MPI/OpenMP/CUDA
 
+
+---
+
+# Under a Python umbrella
+
+<img src="IMG_0044.jpg" height="350">
+
+*From <a href="https://www.amazon.com/Design-Patterns-Object-Oriented-Addison-Wesley-Professional-ebook/dp/B000SEIBB8">Design Patterns</a>, Gamma, Helm, Johnson and Vlissies*
 
 ---
 
