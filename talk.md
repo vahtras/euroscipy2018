@@ -13,8 +13,7 @@
 # Pythonizing workflows 
 ## with modern and legacy chemistry softwares
 
-
-### Euroscipy2018
+### EuroSciPy2018
 
 ### Olav Vahtras 
 
