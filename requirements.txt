@@ -7,6 +7,8 @@ frozen-flask==1.0.2
 itsdangerous==2.1.2
 jinja2==3.1.6
 markupsafe==2.1.5
+pip==26.1.2
+setuptools==83.0.0
 pip==26.2
 setuptools==78.1.1
 visitor==0.1.3
